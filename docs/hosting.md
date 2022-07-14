@@ -38,6 +38,15 @@ Well, there are many options available; I've described several of the most-commo
 - Billed for usage above certain limits
 ```
 
+### [Oracle Cloud](https://www.oracle.com/cloud/)
+```diff
++ Always Free plan
++ Free plan is powerful
++ ARM architechture
+- Requires Credit Card
+- ARM architecture
+```
+
 <br>
 
 ## 🏠 Home Hosting
